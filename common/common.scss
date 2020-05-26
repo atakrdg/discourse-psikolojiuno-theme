@@ -158,10 +158,10 @@ input[type="color"] {
     }
   }
   nav::before {
-    background: linear-gradient(to right, $sky 0%, rgba(213, 222, 214, 0) 100%);
+    
   }
   nav::after {
-    background: linear-gradient(to left, $sky 0%, rgba(213, 222, 214, 0) 100%);
+    
   }
 }
 
